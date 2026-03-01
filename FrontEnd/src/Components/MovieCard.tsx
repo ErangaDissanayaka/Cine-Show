@@ -1,4 +1,4 @@
-import { Slice, StarIcon } from "lucide-react";
+import { StarIcon } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 interface MovieCardProps {
